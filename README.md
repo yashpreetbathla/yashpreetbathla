@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Hi there! I'm **Yashpreet Bathla**, a passionate Frontend Engineer with a knack for building blazing-fast, beautiful, and scalable user interfaces. I specialize in **React**, **TypeScript**, and **modern UI architecture**.
+Hi there! I'm **Yashpreet Bathla**, a passionate Full Stack Engineer with a knack for building blazing-fast, beautiful, and scalable user interfaces. I specialize in **React**, **TypeScript**, and **modern UI architecture**.
 
 I love clean code, scalable design systems, and driving meaningful product decisions.
 
