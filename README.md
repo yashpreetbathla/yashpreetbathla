@@ -76,6 +76,73 @@ With experience across industry giants like **Microsoft**, fast-scaling unicorns
 
 ---
 
+## 🛠️ Featured Projects
+
+## 🧠 [CodEngine - Interactive Online Judge](https://github.com/yashpreetbathla/CodEngine/tree/master)
+
+A modern online judge platform leveraging the CodeChef API to provide a seamless and interactive coding experience.
+
+**Key Features:**
+
+- Responsive UI and syntax-highlighted code editor
+- Secure authentication via CodeChef
+- Real-time code execution with live output
+- Contest discovery and problem-solving tools
+
+---
+
+## 💸 [SplitUp Web – Expense Management App](https://github.com/yashpreetbathla/splitUp-web)
+
+A full-featured expense tracking and bill-splitting app built with React and Redux Toolkit for friends, roommates, or group travelers.
+
+**Key Features:**
+
+- Responsive UI with TailwindCSS and DaisyUI
+- Group creation and profile photo uploads
+- Split expenses with auto-calculated debts
+- Real-time summaries and mobile-friendly design
+
+---
+
+## 💰 [SplitUp Backend](https://github.com/yashpreetbathla/splitup)
+
+The backend logic that powers the SplitUp Web App with robust APIs and real-time features.
+
+**Key Features:**
+
+- JWT-based secure authentication
+- Group and user management with admin roles
+- Real-time balance updates and notifications
+- Clean RESTful APIs for expenses and summaries
+
+---
+
+## 💼 [DevTinder – Developer Networking App](https://github.com/yashpreetbathla/devTinder)
+
+A real-time networking platform for developers to connect and collaborate based on interests and skills – inspired by Tinder.
+
+**Key Features:**
+
+- Real-time profile swiping and matching
+- Chat and connection via Socket.IO
+- Skill-based filtering and notifications
+- Email alerts and secure user management
+
+---
+
+## 🌐 [DevTinder Web](https://github.com/yashpreetbathla/devTinder-web)
+
+The frontend for DevTinder – providing a sleek, interactive interface to explore and connect with developers.
+
+**Key Features:**
+
+- Tinder-style swiping for developers
+- Real-time messaging and filtering
+- Responsive UI with DaisyUI
+- Profile editing and authentication
+
+---
+
 ## 🤝 Let's Connect
 
 💌 yashpreetbathla@gmail.com  
@@ -84,4 +151,4 @@ With experience across industry giants like **Microsoft**, fast-scaling unicorns
 
 ---
 
-> “Code is read more often than it is written — so make it beautiful.” ✨
+> "Code is read more often than it is written — so make it beautiful." ✨
