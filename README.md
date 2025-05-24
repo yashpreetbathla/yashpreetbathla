@@ -16,7 +16,7 @@ With experience across industry giants like **Microsoft**, fast-scaling unicorns
 
 ## 🚀 Work Experience
 
-### 🏢 Tessell — _Member of Technical Staff 4_
+### 🏢 Tessell — _Senior Member of Technical Staff_
 
 📅 Apr 2023 – Present  
 🏆 **Superstar Engineer Award**
