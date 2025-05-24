@@ -40,38 +40,6 @@ The world's leading technology company, driving innovation across cloud computin
 - **Mission**: To empower every person and every organization on the planet to achieve more
 - **Impact**: Serving billions of users worldwide with cutting-edge technology solutions
 
----
-
-## 🚀 Work Experience
-
-### 🏢 Tessell — _Senior Member of Technical Staff_
-
-📅 Apr 2023 – Present  
-🏆 **Superstar Engineer Award**
-
-- Revamped the **Demo site architecture**, aligning it with core app UX standards.
-- Built a **shared NPM library** improving code reuse & UI performance.
-- Designed the **Personas data governance feature**, enabling fine-grained app access.
-- Reduced frontend **bundle size by 40%** by redesigning the network layer.
-- Developed **BDD-style test infra** using Cypress & Cucumber.
-
-### 🧪 Yugabyte — _Software Engineer_
-
-📅 Oct 2022 – Apr 2023  
-🏅 **Social Geek Award**
-
-- Implemented **Role-based access control** across YBM Cloud UI.
-- Developed an intuitive **promo-code engine** integrated with the CMS and frontend.
-
-### 💼 Microsoft — _Software Engineer_
-
-📅 Aug 2021 – Oct 2022  
-📸 [Manager Recommendation](https://photos.app.goo.gl/g1s73YsNXa2BTi7TA)
-
-- Rewrote legacy tools for the **Volume Licensing Platform** with React + Redux.
-- Set up live **monitoring dashboards** for production metrics.
-- Proactively handled **production bugs** as part of the on-call engineering team.
-
 ### 🎓 Amazon — _Summer Intern_
 
 📅 May 2022 – Aug 2022
