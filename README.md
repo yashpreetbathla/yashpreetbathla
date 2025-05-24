@@ -10,7 +10,35 @@
 
 Hi there! I'm **Yashpreet Bathla**, a passionate Frontend Engineer with a knack for building blazing-fast, beautiful, and scalable user interfaces. I specialize in **React**, **TypeScript**, and **modern UI architecture**.
 
-With experience across industry giants like **Microsoft**, fast-scaling unicorns like **Yugabyte**, and startups like **Tessell**, I’ve led initiatives that made real business impact—from performance overhauls to developer experience enhancements. I love clean code, scalable design systems, and driving meaningful product decisions.
+I love clean code, scalable design systems, and driving meaningful product decisions.
+
+---
+
+## 📊 Companies
+
+### 🏢 Tessell
+
+A cutting-edge technology company focused on revolutionizing the way businesses operate. Our platform empowers organizations to streamline their operations and drive growth through innovative solutions.
+
+- **Tech Stack**: React, TypeScript, Node.js, PostgreSQL
+- **Mission**: To transform business operations through intelligent automation and data-driven insights
+- **Impact**: Helping companies achieve 40%+ efficiency gains through our platform
+
+### 🧪 Yugabyte
+
+A leading database company providing scalable, distributed SQL solutions for modern applications.
+
+- **Tech Stack**: React, TypeScript, GraphQL, REST
+- **Mission**: To enable developers to build scalable, resilient applications without compromise
+- **Impact**: Powering mission-critical applications for Fortune 500 companies
+
+### 💼 Microsoft
+
+The world's leading technology company, driving innovation across cloud computing, AI, and software development.
+
+- **Tech Stack**: React, Redux, TypeScript, .NET
+- **Mission**: To empower every person and every organization on the planet to achieve more
+- **Impact**: Serving billions of users worldwide with cutting-edge technology solutions
 
 ---
 
@@ -43,6 +71,15 @@ With experience across industry giants like **Microsoft**, fast-scaling unicorns
 - Rewrote legacy tools for the **Volume Licensing Platform** with React + Redux.
 - Set up live **monitoring dashboards** for production metrics.
 - Proactively handled **production bugs** as part of the on-call engineering team.
+
+### 🎓 Amazon — _Summer Intern_
+
+📅 May 2022 – Aug 2022
+
+- Designed and implemented notification system for job creation in CVAT
+- Built scalable AWS infrastructure using CDK, SNS, and Lambda functions
+- Integrated Slack and Chime bots for real-time job notifications
+- Contributed to open-source CVAT platform development
 
 ---
 
