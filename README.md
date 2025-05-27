@@ -151,8 +151,7 @@ The frontend for DevTinder – providing a sleek, interactive interface to explo
 ## 🤝 Let's Connect
 
 💌 yashpreetbathla@gmail.com  
-📞 +91 9873077860  
-🌐 [Portfolio / Blog (coming soon)](#)
+🌐 [Portfolio](yashpreetbathla.github.io/notion-flow-portfolio/)
 
 ---
 
