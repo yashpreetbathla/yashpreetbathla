@@ -1,5 +1,7 @@
 # 👨‍💻 Yashpreet Bathla
 
+🌐 [Portfolio](https://yashpreetbathla.github.io/notion-flow-portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yashpreetbathla/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/yashpreetbathla)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:yashpreetbathla@gmail.com)
