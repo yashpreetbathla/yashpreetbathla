@@ -26,14 +26,6 @@ A cutting-edge technology company focused on revolutionizing the way businesses 
 - **Mission**: To transform business operations through intelligent automation and data-driven insights
 - **Impact**: Helping companies achieve 40%+ efficiency gains through our platform
 
-### 🧪 Yugabyte
-
-A leading database company providing scalable, distributed SQL solutions for modern applications.
-
-- **Tech Stack**: React, TypeScript, GraphQL, REST
-- **Mission**: To enable developers to build scalable, resilient applications without compromise
-- **Impact**: Powering mission-critical applications for Fortune 500 companies
-
 ### 💼 Microsoft
 
 The world's leading technology company, driving innovation across cloud computing, AI, and software development.
